@@ -28,8 +28,7 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-   [ git clone [https://github.com/malkordi4-dev/github-training-project.git](https://github.com/malkordi4-dev/github-training-project.git)](https://malkordi4-dev.github.io/github-training-project/html%20pages/index.html)
-    ```
+git clone [https://github.com/malkordi4-dev/github-training-project.git](https://github.com/malkordi4-dev/github-training-project.git)    ```
 2.  **Navigate to the project folder:**
     ```bash
     cd github-training-project
